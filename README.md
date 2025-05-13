@@ -9,4 +9,4 @@ This Python script reads a `.txt` file of student names and majors, then categor
 
 ## How to Run
 1. Install dependencies: `pip install matplotlib matplotlib-venn`
-2. Run: `python yourscriptname.py`
+2. Run: `python student_major_classifier.py`
